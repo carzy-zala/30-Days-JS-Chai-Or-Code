@@ -33,8 +33,6 @@
 - Understand the different data types in JavaScript.
 - Be able to use the typeof operator to identify the data type of a variable.
 - Understand the concept of variable reassignment and the immutability of const variables.
-## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayrajsinhzala/)
 
 
