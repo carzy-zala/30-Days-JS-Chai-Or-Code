@@ -7,15 +7,12 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 ## Challenge Log 🚀🚀
 
 ###  Day 1: Variables and Data Types
-**Activity 1** : Variable Declaration
-
-**Activity 2**: Constant Declaration
-
-**Activity 3**: Data Types
-
-**Activity 4**: Reassigning Variables
-
-**Activity 5**: Understanding const
+* **Activities**
+   * Activity 1 : Variable Declaration
+   * Activity 2: Constant Declaration
+   * Activity 3: Data Types
+   * Activity 4: Reassigning Variables
+   * Activity 5: Understanding const
 
 
 
