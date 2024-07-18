@@ -9,11 +9,26 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 ###  Day 1: Variables and Data Types
 * **Activities**
    * Activity 1 : Variable Declaration
-   * Activity 2: Constant Declaration
-   * Activity 3: Data Types
-   * Activity 4: Reassigning Variables
-   * Activity 5: Understanding const
+   * Activity 2 : Constant Declaration
+   * Activity 3 : Data Types
+   * Activity 4 : Reassigning Variables
+   * Activity 5 : Understanding const
 
+###  Day 2: Operators
+* **Activities**
+   * Activity 1 : Arithmetic Operations
+   * Activity 2 : Assignment Operators
+   * Activity 3 : Comparison Operators
+   * Activity 4 : Logical Operators
+   * Activity 5 : Ternary Operator
+
+###  Day 3: CONTROL STRUCTURES
+* **Activities**
+   * Activity 1 : If-Else Statements
+   * Activity 2 : Nested If-Else Statements
+   * Activity 3 : Switch Case
+   * Activity 4 : Conditional (Ternary) Operator
+   * Activity 5 : Combining Conditions
 
 
 

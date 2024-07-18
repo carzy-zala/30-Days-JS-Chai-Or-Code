@@ -35,7 +35,6 @@ Write a program to compare two numbers using == and === and log the result to th
  Write a program that uses the ! operator to combine two conditions and log the result to the console.
 
 ### Activity 5: Ternary Operator
-operator to combine two conditions and log the result to the console. operator to negate a condition and log the result to the console.
 - #### Task 14:
  Write a program that uses the ternary operator to check if a number is positive or negative and log the result to the console.
 
