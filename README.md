@@ -42,6 +42,15 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Nested Loops
   - Activity 5 : Loop Control Statements
 
+### Day 5: Functions
+
+- **Activities**
+  - Activity 1 : Function Declaration
+  - Activity 2 : Function Expression
+  - Activity 3 : Arrow Functions
+  - Activity 4 : Function Parameters and Default Values
+  - Activity 5 : Higher-Order Functions
+
 ## 🔗 Links 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayrajsinhzala/)
