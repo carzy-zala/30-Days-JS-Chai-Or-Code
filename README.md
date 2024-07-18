@@ -51,6 +51,15 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Function Parameters and Default Values
   - Activity 5 : Higher-Order Functions
 
+### Day 6: Arrays
+
+- **Activities**
+  - Activity 1 : Array Creation and Access
+  - Activity 2 : Array Methods (Basic)
+  - Activity 3 : Array Methods (Intermediate)
+  - Activity 4 : Array Iteration
+  - Activity 5 : Multi-dimensional Arrays
+
 ## 🔗 Links 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayrajsinhzala/)
