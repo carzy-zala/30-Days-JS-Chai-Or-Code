@@ -21,7 +21,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Reassigning Variables
   - Activity 5 : Understanding const
 
-- **Solution :** [DAY 1](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Day%201)
+- **Solution :** [DAY 1](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%201)
 
 ### Day 2: Operators
 
@@ -33,7 +33,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Logical Operators
   - Activity 5 : Ternary Operator
 
-- **Solution :** [DAY 2](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Day%202)
+- **Solution :** [DAY 2](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%202)
 
 ### Day 3: CONTROL STRUCTURES
 
