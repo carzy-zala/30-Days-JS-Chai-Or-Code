@@ -15,6 +15,8 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Reassigning Variables
   - Activity 5 : Understanding const
 
+- **Solution :** [DAY 1](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%201)
+
 ### Day 2: Operators
 
 - **Activities**
@@ -23,6 +25,8 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 3 : Comparison Operators
   - Activity 4 : Logical Operators
   - Activity 5 : Ternary Operator
+
+- **Solution :** [DAY 2](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%202)
 
 ### Day 3: CONTROL STRUCTURES
 
@@ -33,6 +37,8 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Conditional (Ternary) Operator
   - Activity 5 : Combining Conditions
 
+- **Solution :** [DAY 3](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%203)
+
 ### Day 4: LOOPS
 
 - **Activities**
@@ -41,6 +47,8 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 3 : Do While Loop
   - Activity 4 : Nested Loops
   - Activity 5 : Loop Control Statements
+
+- **Solution :** [DAY 4](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%204)
 
 ### Day 5: Functions
 
@@ -51,6 +59,8 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Function Parameters and Default Values
   - Activity 5 : Higher-Order Functions
 
+- **Solution :** [DAY 5](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%205)
+
 ### Day 6: Arrays
 
 - **Activities**
@@ -59,6 +69,19 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 3 : Array Methods (Intermediate)
   - Activity 4 : Array Iteration
   - Activity 5 : Multi-dimensional Arrays
+
+- **Solution :** [DAY 6](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%206)
+
+### Day 7: Objects
+
+- **Activities**
+  - Activity 1 : Object Creation and Access
+  - Activity 2 : Object Methods
+  - Activity 3 : Nested Objects
+  - Activity 4 : The this Keyword
+  - Activity 5 : Object Iteration
+
+- **Solution :** [DAY 7](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%207)
 
 ## 🔗 Links 🔗
 
