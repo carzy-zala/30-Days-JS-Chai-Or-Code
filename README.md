@@ -4,7 +4,12 @@
 
 I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) to enhance my JavaScript skills and become proficient in the language. This document will serve as a log for my daily progress, tasks, reflections, and any additional resources I find helpful.
 
+### Jump to ➡️
+- #### [First 10 Days](#first-10-days)
+
 ## Challenge Log 🚀🚀
+
+## First 10 Days
 
 ### Day 1: Variables and Data Types
 
