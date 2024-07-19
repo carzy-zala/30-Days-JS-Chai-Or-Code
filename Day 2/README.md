@@ -1,5 +1,7 @@
 # Day 2: Operators
+
 ## Tasks/Activities:
+
 ### Activity 1: Arithmetic Operations
 - #### Task 1:
  Write a program to add two numbers and log the result to the console.
