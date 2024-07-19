@@ -9,28 +9,31 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 ### Day 1: Variables and Data Types
 
 - **Activities**
+
   - Activity 1 : Variable Declaration
   - Activity 2 : Constant Declaration
   - Activity 3 : Data Types
   - Activity 4 : Reassigning Variables
   - Activity 5 : Understanding const
 
-- **Solution :** [DAY 1](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%201)
+- **Solution :** [DAY 1](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Day%201)
 
 ### Day 2: Operators
 
 - **Activities**
+
   - Activity 1 : Arithmetic Operations
   - Activity 2 : Assignment Operators
   - Activity 3 : Comparison Operators
   - Activity 4 : Logical Operators
   - Activity 5 : Ternary Operator
 
-- **Solution :** [DAY 2](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%202)
+- **Solution :** [DAY 2](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Day%202)
 
 ### Day 3: CONTROL STRUCTURES
 
 - **Activities**
+
   - Activity 1 : If-Else Statements
   - Activity 2 : Nested If-Else Statements
   - Activity 3 : Switch Case
@@ -42,6 +45,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 ### Day 4: LOOPS
 
 - **Activities**
+
   - Activity 1 : For Loop
   - Activity 2 : While Loop
   - Activity 3 : Do While Loop
@@ -53,6 +57,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 ### Day 5: Functions
 
 - **Activities**
+
   - Activity 1 : Function Declaration
   - Activity 2 : Function Expression
   - Activity 3 : Arrow Functions
@@ -64,6 +69,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 ### Day 6: Arrays
 
 - **Activities**
+
   - Activity 1 : Array Creation and Access
   - Activity 2 : Array Methods (Basic)
   - Activity 3 : Array Methods (Intermediate)
@@ -75,6 +81,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 ### Day 7: Objects
 
 - **Activities**
+
   - Activity 1 : Object Creation and Access
   - Activity 2 : Object Methods
   - Activity 3 : Nested Objects
