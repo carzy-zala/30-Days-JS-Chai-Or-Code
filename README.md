@@ -95,6 +95,20 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 
 - **Solution :** [DAY 7](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%207)
 
+### Day 8: ES6+ Features
+
+- **Activities**
+
+  - Activity 1 : Template Literals
+  - Activity 2 : Destructuring
+  - Activity 3 : Spread and Rest Operators
+  - Activity 4 : Default Parameters
+  - Activity 5 : Enhanced Object Literals
+
+- **Solution :** [DAY 7](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%208)
+
+
+
 ## 🔗 Links 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayrajsinhzala/)
