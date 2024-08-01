@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>DAY 9</title>
+  </head>
+  <body>
+    <div id="divId">Div 1</div>
+    <div style="padding: 10px" class="divClass">
+      Div 1
+      <div class="innerDiv">innerDiv</div>
+    </div>
+    <div>
+      <h2 style="margin: 10px 0 0 0">Unorder list</h2>
+      <ul style="margin: 10px 0 10px 0">
+        <li>Mango</li>
+        <li>Banana</li>
+      </ul>
+    </div>
+    <div style="padding: 10px; border: 1px solid black; margin: 10px">
+      <h2 style="margin: 10px 0 10px 0">Activity 2 buttons</h2>
+      <button id="adddiv">Append one div</button>
+      <button id="rmvdiv">Remove last added div</button>
+      <button id="addli">Append one List Item</button>
+      <button id="rmvli">Remove last added List Item</button>
+    </div>
+
+    <div style="padding: 10px; border: 1px solid black; margin: 10px">
+      <h2 style="margin: 10px 0 10px 0">Activity 3 buttons</h2>
+      <button id="task5">Remove welcome message</button>
+      <button id="task6">Remove last added div</button>
+    </div>
+
+    <div style="padding: 10px; border: 1px solid black; margin: 10px">
+      <h2 style="margin: 10px 0 10px 0">Activity 4 buttons</h2>
+
+      <div style="display: flex">
+        <button id="task7">Change below image</button>
+        <div style="margin-left: 5px">
+          <button id="taskpad">add pad class for padding</button>
+          <button id="taskbg">add bg class</button>
+          <button id="taskborder">add border class for border</button>
+        </div>
+
+        <div style="margin-left: 5px">
+          <button id="taskrmvpad">remove pad class</button>
+          <button id="taskrmvbg">remove bg class</button>
+          <button id="taskrmvborder">remove border class</button>
+        </div>
+      </div>
+
+      <div>
+        <img
+          class="img"
+          src="https://i.pinimg.com/originals/dc/5d/9a/dc5d9a13a21242a2b36d492bee78bcf8.png"
+          height="100px"
+        />
+
+        <div id="classData">Applied classes to image :</div>
+      </div>
+    </div>
+
+    <div style="padding: 10px; border: 1px solid black; margin: 10px">
+
+      <h2 style="margin: 10px 0 10px 0">Activity 5 </h2>
+
+      <button id="txtChange">Change text</button>
+      <p id="act5">
+        If you hover on it border change and if you click change text it text
+        will change
+      </p>
+    </div>
+
+    <script src="01_Selecting_And_Manipulating_Elements.js"></script>
+    <script src="02_Creating_And_Appending_Elements.js"></script>
+    <script src="03_Removing_Elements.js"></script>
+    <script src="./04_Modifying_Attributes_And_Classes.js"></script>
+    <script src="./05_Event_Handling.js"></script>
+  </body>
+</html>

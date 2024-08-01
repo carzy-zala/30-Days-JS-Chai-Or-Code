@@ -107,7 +107,17 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 
 - **Solution :** [DAY 7](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%208)
 
+### Day 9: DOM Manipulation
 
+- **Activities**
+
+  - Activity 1 : Selecting and Manipulating Elements
+  - Activity 2 : Creating and Appending Elements
+  - Activity 3 : Removing Elements
+  - Activity 4 : Modifying Attributes and Classes
+  - Activity 5 : Event Handling
+
+- **Solution :** [DAY 7](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%209)
 
 ## 🔗 Links 🔗
 
