@@ -22,7 +22,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Reassigning Variables
   - Activity 5 : Understanding const
 
-- **Solution :** [DAY 1](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%201)
+- **Solution :** [DAY 1](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/First_10_Days/DAY%2001)
 
 ### Day 2: Operators
 
@@ -34,7 +34,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Logical Operators
   - Activity 5 : Ternary Operator
 
-- **Solution :** [DAY 2](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%202)
+- **Solution :** [DAY 2](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/First_10_Days/DAY%2002)
 
 ### Day 3: CONTROL STRUCTURES
 
@@ -46,7 +46,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Conditional (Ternary) Operator
   - Activity 5 : Combining Conditions
 
-- **Solution :** [DAY 3](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%203)
+- **Solution :** [DAY 3](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/First_10_Days/DAY%2003)
 
 ### Day 4: LOOPS
 
@@ -58,7 +58,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Nested Loops
   - Activity 5 : Loop Control Statements
 
-- **Solution :** [DAY 4](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%204)
+- **Solution :** [DAY 4](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/First_10_Days/DAY%2004)
 
 ### Day 5: Functions
 
@@ -70,7 +70,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Function Parameters and Default Values
   - Activity 5 : Higher-Order Functions
 
-- **Solution :** [DAY 5](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%205)
+- **Solution :** [DAY 5](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/First_10_Days/DAY%2005)
 
 ### Day 6: Arrays
 
@@ -82,7 +82,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Array Iteration
   - Activity 5 : Multi-dimensional Arrays
 
-- **Solution :** [DAY 6](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%206)
+- **Solution :** [DAY 6](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/First_10_Days/DAY%2006)
 
 ### Day 7: Objects
 
@@ -94,7 +94,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : The this Keyword
   - Activity 5 : Object Iteration
 
-- **Solution :** [DAY 7](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%207)
+- **Solution :** [DAY 7](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/First_10_Days/DAY%2007)
 
 ### Day 8: ES6+ Features
 
@@ -106,7 +106,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Default Parameters
   - Activity 5 : Enhanced Object Literals
 
-- **Solution :** [DAY 8](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%208)
+- **Solution :** [DAY 8](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/First_10_Days/DAY%2008)
 
 ### Day 9: DOM Manipulation
 
@@ -118,7 +118,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Modifying Attributes and Classes
   - Activity 5 : Event Handling
 
-- **Solution :** [DAY 9](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%209)
+- **Solution :** [DAY 9](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/First_10_Days/DAY%2009)
 
 
 ### Day 10: DOM Manipulation
@@ -131,7 +131,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Form Events
   - Activity 5 : Event Delegation
 
-- **Solution :** [DAY 10](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%2010)
+- **Solution :** [DAY 10](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/First_10_Days/DAY%2010)
 
 ## 🔗 Links 🔗
 
