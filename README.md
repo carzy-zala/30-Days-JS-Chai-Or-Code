@@ -6,6 +6,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 
 ### Jump to ➡️
 - #### [First 10 Days](#first-10-days)
+- #### [First 20 Days](#first-20-days)
 
 ## Challenge Log 🚀🚀
 
@@ -105,7 +106,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Default Parameters
   - Activity 5 : Enhanced Object Literals
 
-- **Solution :** [DAY 7](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%208)
+- **Solution :** [DAY 8](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%208)
 
 ### Day 9: DOM Manipulation
 
@@ -117,7 +118,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Modifying Attributes and Classes
   - Activity 5 : Event Handling
 
-- **Solution :** [DAY 7](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%209)
+- **Solution :** [DAY 9](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%209)
 
 
 ### Day 10: DOM Manipulation
@@ -130,7 +131,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Form Events
   - Activity 5 : Event Delegation
 
-- **Solution :** [DAY 7](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%210)
+- **Solution :** [DAY 10](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%2010)
 
 ## 🔗 Links 🔗
 
