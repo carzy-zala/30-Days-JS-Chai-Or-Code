@@ -5,8 +5,9 @@
 I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) to enhance my JavaScript skills and become proficient in the language. This document will serve as a log for my daily progress, tasks, reflections, and any additional resources I find helpful.
 
 ### Jump to ➡️
+
 - #### [First 10 Days](#first-10-days)
-- #### [First 20 Days](#first-20-days)
+- #### [Next 10 Days](#next-10-days)
 
 ## Challenge Log 🚀🚀
 
@@ -120,8 +121,7 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 
 - **Solution :** [DAY 9](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/First_10_Days/DAY%2009)
 
-
-### Day 10: DOM Manipulation
+### Day 10: Event Handling
 
 - **Activities**
 
@@ -132,6 +132,20 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 5 : Event Delegation
 
 - **Solution :** [DAY 10](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/First_10_Days/DAY%2010)
+
+## Next 10 Days
+
+### Day 11: Promises and Async/Await
+
+- **Activities**
+
+  - Activity 1 : Understanding Promises
+  - Activity 2 : Chaining Promises
+  - Activity 3 : Using Async/Await
+  - Activity 4 : Fetching Data from an API
+  - Activity 5 : Concurrent Promises
+
+- **Solution :** [DAY 11](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2011)
 
 ## 🔗 Links 🔗
 
