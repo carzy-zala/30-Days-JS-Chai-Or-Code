@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>DAY 10</title>
+  </head>
+  <body>
+    <div class="main">
+      <h2>Activity 1</h2>
+      <div class="task">
+        <h3>Task 1</h3>
+        <p style="display: inline">Lorem ipsum dolor sit amet.</p>
+        <button id="task1">Change Text</button>
+      </div>
+
+      <div class="task">
+        <h3>Task 2</h3>
+        <div
+          id="imgDiv"
+          style="height: 100px; width: 100px; border: 1px solid white"
+        >
+          <img
+            src="https://i.pinimg.com/originals/dc/5d/9a/dc5d9a13a21242a2b36d492bee78bcf8.png"
+            alt="happy"
+            height="100px"
+          />
+        </div>
+        <p>Double click on bog to get/remove image</p>
+      </div>
+    </div>
+
+    <div class="main">
+      <h2>Activity 2</h2>
+      <div class="task">
+        <h3>Task 3/ Task 4</h3>
+        <p>
+          Mouse over on below box to change background color and take it for
+          reset
+        </p>
+        <div
+          id="task34"
+          style="
+            height: 100px;
+            width: 100px;
+            border: 1px solid white;
+            background-color: blue;
+          "
+        ></div>
+      </div>
+    </div>
+
+    <div class="main">
+      <h2>Activity 3</h2>
+      <input type="text" />
+      <div class="task">
+        <h3>Task 5</h3>
+        <p>Key pressed : <span id="key"></span></p>
+      </div>
+      <div class="task">
+        <h3>Task 6</h3>
+        <p>Current value of paragraph : <span id="para"></span></p>
+      </div>
+    </div>
+
+    <div class="main">
+      <h2>Activity 4</h2>
+      <div class="task">
+        <h3>Task 7</h3>
+        <div style="display: flex">
+          <form name="myform">
+            <div style="padding: 5px">
+              <label for="fname">First Name: </label>
+              <input
+                name="fname"
+                id="fname"
+                type="text"
+                placeholder="Enter a first name"
+              />
+            </div>
+
+            <div style="padding: 5px"></div>
+
+            <div style="padding: 5px">
+              <label for="lname">Last Name: </label>
+              <input
+                name="lname"
+                id="lname"
+                type="text"
+                placeholder="Enter a last name"
+              />
+            </div>
+            <div style="padding: 5px">
+              <label for="email">Email: </label>
+              <input
+                name="email"
+                id="email"
+                type="email"
+                placeholder="Enter your mail id"
+              />
+            </div>
+
+            <div>
+              <label for="selectdp">Display : </label>
+              <select name="selectdp" id="selectdp">
+                <option value="dp1">Display 1</option>
+                <option value="dp2">Display 2</option>
+                <option value="dp3">Display 3</option>
+                <option value="dp4">Display 4</option>
+              </select>
+            </div>
+            <input type="submit" style="padding: 5px 20px" />
+          </form>
+
+          <div
+            style="margin-left: 10px; border: 1px solid white; padding: 10px"
+          >
+            <p>Submitted data :</p>
+            <p style="padding-left: 30px" id="data"></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="task">
+        <h3>Task 8</h3>
+        <p id="dp"></p>
+      </div>
+    </div>
+
+    <div class="main">
+      <h2>Activity 5</h2>
+      <div class="task">
+        <h3>Task 9</h3>
+        <ul id="task9" style="padding: 10px">
+          <li>One</li>
+          <li>Two</li>
+          <li>Three</li>
+          <li>Four</li>
+        </ul>
+
+        <p><span id="task9Li"></span> is Clicked</p>
+      </div>
+
+      <div class="task">
+        <h3>Task 10</h3>
+        <button id="task10" style="padding: 5px 20px">Add div</button>
+        <div>Clicked div content is : <span id="divContent"></span></div>
+        <div id="parent" style="display: flex"></div>
+      </div>
+    </div>
+    <script src="./01_basic_event_handling.js"></script>
+    <script src="./02_Mouse_Events.js"></script>
+    <script src="./03_Keyboard_Events.js"></script>
+    <script src="./04_Form_Events.js"></script>
+    <script src="./05_Event_Delegation.js"></script>
+  </body>
+</html>

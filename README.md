@@ -119,6 +119,19 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 
 - **Solution :** [DAY 7](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%209)
 
+
+### Day 10: DOM Manipulation
+
+- **Activities**
+
+  - Activity 1 : Basic Event Handling
+  - Activity 2 : Mouse Events
+  - Activity 3 : Keyboard Events
+  - Activity 4 : Form Events
+  - Activity 5 : Event Delegation
+
+- **Solution :** [DAY 7](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/DAY%210)
+
 ## 🔗 Links 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayrajsinhzala/)
