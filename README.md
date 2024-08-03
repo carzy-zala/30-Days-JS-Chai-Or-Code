@@ -147,6 +147,18 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 
 - **Solution :** [DAY 11](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2011)
 
+### Day 12: Error Handling Tasks/Activities
+
+- **Activities**
+
+  - Activity 1 : Basic Error Handling with Try-Catch
+  - Activity 2 : Finally Block
+  - Activity 3 : Custom Error Objects
+  - Activity 4 : Error Handling in Promises
+  - Activity 5 : Graceful Error Handling in Fetch
+
+- **Solution :** [DAY 12](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2012)
+
 ## 🔗 Links 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayrajsinhzala/)
