@@ -159,6 +159,18 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 
 - **Solution :** [DAY 12](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2012)
 
+### Day 13: Modules
+
+- **Activities**
+
+  - Activity 1 : Creating and Exporting Modules
+  - Activity 2 : Named and Default Exports
+  - Activity 3 : Importing Entire Modules
+  - Activity 4 : Using Third-Party Modules
+  - Activity 5 : Module Bundling (Optional)
+
+- **Solution :** [DAY 13](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2013)
+
 ## 🔗 Links 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayrajsinhzala/)
