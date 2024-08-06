@@ -171,6 +171,18 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 
 - **Solution :** [DAY 13](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2013)
 
+### Day 14: Classes
+
+- **Activities**
+
+  - Activity 1 : Class Definition
+  - Activity 2 : Class Inheritance
+  - Activity 3 : Static Methods and Properties
+  - Activity 4 : Getters and Setters
+  - Activity 5 : Private Fields (Optional)
+
+- **Solution :** [DAY 14](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2014)
+
 ## 🔗 Links 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayrajsinhzala/)
