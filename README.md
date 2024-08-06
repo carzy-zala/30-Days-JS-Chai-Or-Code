@@ -183,6 +183,18 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 
 - **Solution :** [DAY 14](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2014)
 
+### Day 15: Closures
+
+- **Activities**
+
+  - Activity 1 : Understanding Closures
+  - Activity 2 : Practical Closures
+  - Activity 3 : Closures in Loops
+  - Activity 4 : Module Pattern
+  - Activity 5 : Memoization
+
+- **Solution :** [DAY 14](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2014)
+
 ## 🔗 Links 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayrajsinhzala/)
