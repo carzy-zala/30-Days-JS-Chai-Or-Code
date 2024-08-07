@@ -207,6 +207,18 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 
 - **Solution :** [DAY 16](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2016)
 
+### Day 17: Data Structures
+
+- **Activities**
+
+  - Activity 1 : Linked List
+  - Activity 2 : Stack
+  - Activity 3 : Queue
+  - Activity 4 : Binary Tree
+  - Activity 5 : Graph (Optional)
+
+- **Solution :** [DAY 17](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2017)
+
 ## 🔗 Links 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayrajsinhzala/)
