@@ -6,8 +6,8 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 
 ### Jump to ➡️
 
-- #### [First 10 Days](#first-10-days)
-- #### [Next 10 Days](#next-10-days)
+- #### [First 10 Days](#first-10-days-1)
+- #### [Next 10 Days](#next-10-days-1)
 
 ## Challenge Log 🚀🚀
 
@@ -193,7 +193,19 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
   - Activity 4 : Module Pattern
   - Activity 5 : Memoization
 
-- **Solution :** [DAY 14](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2014)
+- **Solution :** [DAY 15](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2015)
+
+### Day 16: Recursion
+
+- **Activities**
+
+  - Activity 1 : Basic Recursion
+  - Activity 2 : Recursion with Arrays
+  - Activity 3 : String Manipulation with Recursion
+  - Activity 4 : Recursive Search
+  - Activity 5 : Tree Traversal (Optional)
+
+- **Solution :** [DAY 16](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2016)
 
 ## 🔗 Links 🔗
 
