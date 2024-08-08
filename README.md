@@ -219,6 +219,18 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 
 - **Solution :** [DAY 17](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2017)
 
+### Day 18: Algorithms
+
+- **Activities**
+
+  - Activity 1 : Sorting Algorithms
+  - Activity 2 : Searching Algorithms
+  - Activity 3 : String Algorithms
+  - Activity 4 : Array Algorithms
+  - Activity 5 : Dynamic Programming (Optional)
+
+- **Solution :** [DAY 18](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2018)
+
 ## 🔗 Links 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayrajsinhzala/)
