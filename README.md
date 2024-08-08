@@ -231,6 +231,18 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 
 - **Solution :** [DAY 18](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2018)
 
+### Day 19: Algorithms
+
+- **Activities**
+
+  - Activity 1 : Basic Regular Expressions
+  - Activity 2 : Character Classes and Quantifiers
+  - Activity 3 : Grouping and Capturing
+  - Activity 4 : Assertions and Boundaries
+  - Activity 5 : Practical Applications
+
+- **Solution :** [DAY 19](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2019)
+
 ## 🔗 Links 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayrajsinhzala/)
