@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+  </head>
+  <body>
+    <form name="userForm">
+      <div class="input-feild">
+        <label for="fullName">Name:</label>
+        <input type="text" id="fullName" name="fullName" />
+      </div>
+      <div class="input-feild">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" />
+      </div>
+      <input type="Submit" name="submit" />
+    </form>
+    <div class="data">
+      <div id="ls"></div>
+      <button id="rmvLS">Remove LS</button>
+      <div id="session"></div>
+      <button id="rmvSession">Remove session</button>
+    </div>
+    <script src="./01_Understanding_LocalStorage.js"></script>
+    <script src="./02_Using_LocalStorage.js"></script>
+    <script src="./03_Understanding_SessionStorage.js"></script>
+    <script src="./04_Using_SessionStorage.js"></script>
+    <script src="./05_Comparing_LocalStorage_and_SessionStorage.js"></script>
+  </body>
+</html>

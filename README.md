@@ -243,6 +243,18 @@ I am taking the 30-day JavaScript challenge by Hitesh Choudhary (Chai Or Code) t
 
 - **Solution :** [DAY 19](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2019)
 
+### Day 20: LocalStorage and SessionStorage
+
+- **Activities**
+
+  - Activity 1 : Understanding LocalStorage
+  - Activity 2 : Using LocalStorage
+  - Activity 3 : Understanding SessionStorage
+  - Activity 4 : Using SessionStorage
+  - Activity 5 : Comparing LocalStorage and SessionStorage
+
+- **Solution :** [DAY 20](https://github.com/carzy-zala/30-Days-JS-Chai-Or-Code/tree/main/Next_10_Days/DAY%2020)
+
 ## 🔗 Links 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayrajsinhzala/)
